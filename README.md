@@ -29,19 +29,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, treinando o que você aprendeu até agora no Node.js junto ao TypeScript, mas dessa vez incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer!
-
-Essa será uma aplicação que deve armazenar transações financeiras de entrada e saída e permitir o cadastro e a listagem dessas transações, além de permitir a criação de novos registros no banco de dados a partir do envio de um arquivo csv.
-
-### Template da aplicação
-
-Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do Github.
-
-O template está disponível na seguinte url: **[Acessar Template](https://github.com/Rocketseat/gostack-template-typeorm-upload)**
-
-**Dica**: Caso não saiba utilizar repositórios do Github como template, temos um guia em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
-Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências.
+Essa será uma aplicação que deve armazenar transações financeiras de entrada e saída e permitir o cadastro e a listagem dessas transações, além de permitir a criação de novos registros no banco de dados a partir do envio de um arquivo csv. O armazenamento deve ser feito em um banco de dados com o TypeORM e o envio de arquivos deve ser feito com o Multer!
 
 ### Rotas da aplicação
 
